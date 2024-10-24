@@ -217,7 +217,7 @@
 ('SB','Solomon Islands'),
 ('SC','Seychelles'),
 ('SD','Sudan'),
-('SE','Sverige'),
+('SE','Sweden'),
 ('SG','Singapore'),
 ('SH','Saint Helena'),
 ('SI','Slovenia'),
